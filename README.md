@@ -9,4 +9,4 @@ operations
    1. add
    2. delete
 ## This is project structure 
-<img src="images/MyPic.jpg">
+<img src="images/MyPic.jpg" width="100px" height="100px">
