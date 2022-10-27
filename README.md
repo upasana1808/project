@@ -4,9 +4,14 @@ This project is backend of Online Fashion House, meant for fetching data from th
 Features:-
   * We can add a new customer
   * DElete a customer
+* Top layer
+  * Mid Layer
+  * Mid layer2
+    * Low layer 
 
 operations
    1. add
    2. delete
 ## This is project structure 
-<img src-"">
+<img src="images/rose.jpg" width="100px" height="100px">
+<img src="images/MyPic.jpg" width="100px" height="100px">
