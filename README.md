@@ -1,7 +1,11 @@
 # project
-Overview
+##Overview
 This project is backend of Online Fashion House, meant for fetching data from the MySQL database and expose the data using RESTFUL API endpoints.
 Features:-
-  1. We can add a new customer
-  2. DElete a customer
-  3. 
+  * We can add a new customer
+  * DElete a customer
+
+operations
+   1. add
+   2. delete
+
